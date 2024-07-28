@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pracheta Saha (a.k.a. @joltcops)
-- 👀 I’m a sophomore from the Department of Computer Science and Engineering in Indian Institute of Technology, Kharagpur.
-- 👀 I’m interested in Software Development and Computer Architecture
+- 👀 I’m a third year undergraduate student from the Department of Computer Science and Engineering in Indian Institute of Technology, Kharagpur.
+- 👀 I’m interested in Algorithms, Software Development and Computer Architecture
 - 🌱 I’m currently learning Web Development (Javascript, Django, HTML) and ML
 - 🌱 I’m proficient in: C, C++ and Python
 - 💞️ I’m looking to collaborate on Software Projects, and Building Apps
